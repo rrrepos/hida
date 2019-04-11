@@ -12,7 +12,5 @@
 #
 ### Demo
 Say, **Talk to Digital Trainer** on your Google Assistant App to invoke the demo
-
-or
-
+or,
 [Check these Instructions](./demo.html)
