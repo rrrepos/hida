@@ -1,3 +1,2 @@
 
-Documentation related to Hida
-
+![phone image](images/ama.png)
