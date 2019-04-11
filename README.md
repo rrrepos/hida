@@ -5,6 +5,6 @@
 ### Digital Assistant Solutions for
 
 - #### HR and Staff Policy
-- ### Sales Product Trainings
-- ### Skill Enhancement Courses
-- ### Reference Manuals
+- #### Sales Product Trainings
+- #### Skill Enhancement Courses
+- #### Reference Manuals
