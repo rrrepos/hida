@@ -4,7 +4,7 @@
 ---
 ### Digital Assistant Solutions for
 
-- #### HR and Staff Policy
-- #### Sales Product Trainings
-- #### Skill Enhancement Courses
-- #### Reference Manuals
+#### [HR and Staff Policy](./hr.md)
+#### [Sales Product Trainings](./sales.md)
+#### [Skill Enhancement Courses](./skill.md)
+#### [Reference Manuals](./manuals.md)
