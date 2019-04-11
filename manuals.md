@@ -1,7 +1,7 @@
 [![hida](images/hida-128x128.png)](./)
 
 ### Reference Manuals
-Users can now query reference manuals **by voice on their handy phones**, powered by Hida. *Make life easier to your teams*.
+Users can now query reference manuals **by voice** on their handy phones, powered by Hida. *Make life easy to your teams*.
 
 ![hr screen](images/manuals.png)
 
