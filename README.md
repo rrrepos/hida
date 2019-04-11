@@ -1,6 +1,6 @@
 
 ![phone image](images/ama.png)
-## Make this happen
+# Make this happen
 ---
 #### Digital Assistant Solutions for
 
