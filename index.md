@@ -11,6 +11,4 @@
 #### [Reference Manuals](./manuals.html)
 #
 ### Demo
-You may say, **Talk to Digital Trainer** on your Google Assistant App to invoke the demo.
-or
-[Check the Instructions](./demo.html)
+Say, **Talk to Digital Trainer** on your Google Assistant App to invoke the demo, or [Check these Instructions](./demo.html)
