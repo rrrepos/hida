@@ -12,3 +12,6 @@ The app is simple to use. Just speak (using the mic icon) to the Assistant what 
 ![google assistant screen](images/how-can-i-help.png)
 
 For more info check: [Google Assisant help](https://assistant.google.com/)
+
+#### Invoking the Demo
+Open the Google Assistant app and say, **Talk to Digital Trainer**, when the app is in *listening mode* (the mic icon at the bottom turns to a wave form while it is waiting for your request)
