@@ -2,7 +2,7 @@
 ![phone image](images/ama.png)
 ## Make ☝️ this happen
 ---
-## ![hida](images/hida-128x128.png)
+![hida](images/hida-128x128.png)
 ### Digital Assistant Solutions for
 
 #### [HR and Staff Policy](./hr.md)
