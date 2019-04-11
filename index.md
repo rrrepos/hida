@@ -5,7 +5,7 @@
 ![hida](images/hida-128x128.png)
 ### Digital Assistant Solutions for
 
-#### [HR and Staff Policy](./hr.md)
-#### [Sales Product Trainings](./sales.md)
-#### [Skill Enhancement Courses](./skill.md)
-#### [Reference Manuals](./manuals.md)
+#### [HR and Staff Policy](./hr.html)
+#### [Sales Product Trainings](./sales.html)
+#### [Skill Enhancement Courses](./skill.html)
+#### [Reference Manuals](./manuals.html)
