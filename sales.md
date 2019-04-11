@@ -7,7 +7,7 @@ You can now train your sales personnel with the latest product information acros
 
 ### Digital Assistant Solutions for
 
-#### [HR and Staff Policy](./hr.md)
-#### [Sales Product Trainings](./sales.md)
-#### [Skill Enhancement Courses](./skill.md)
-#### [Reference Manuals](./manuals.md)
+#### [HR and Staff Policy](./hr.html)
+#### [Sales Product Trainings](./sales.html)
+#### [Skill Enhancement Courses](./skill.html)
+#### [Reference Manuals](./manuals.html)
