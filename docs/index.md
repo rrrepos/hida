@@ -1,1 +1,1 @@
-![Ask Me Anything](/assets/images/ama.png)
+![Ask Me Anything](/hida/assets/images/ama.png)
