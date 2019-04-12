@@ -9,7 +9,8 @@
 #### [Sales Product Trainings](./sales.html)
 #### [Skill Enhancement Courses](./skill.html)
 #### [Reference Manuals](./manuals.html)
-</br>
+&nbsp;
+&nbsp;
 
 ### Demo of Channel based on hida
 Say, **Talk to Digital Trainer** to your Google Assistant App to invoke the demo, or, [Check these Instructions](./demo.html).
