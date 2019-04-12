@@ -9,6 +9,6 @@
 #### [Sales Product Trainings](./sales.html)
 #### [Skill Enhancement Courses](./skill.html)
 #### [Reference Manuals](./manuals.html)
-#
+
 ### Demo
 Say, **Talk to Digital Trainer** to your Google Assistant App to invoke the demo, or, [Check these Instructions](./demo.html).
