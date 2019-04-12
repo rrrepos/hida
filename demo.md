@@ -15,3 +15,14 @@ For more info check: [Google Assistant help](https://assistant.google.com/)
 
 #### Invoking the Demo
 Open the Google Assistant app and say, **Talk to Digital Trainer**, when the app is in *listening mode* (the mic icon at the bottom turns to a wave form while it is waiting for your request)
+
+#### Choosing a Topic
+The Greeting from the channel prompts you to say, **List Topics**, to get a list of topics. Or, if you are familiar with the topics, you may directly say, **Search** followed by the topic name. The initial screen is as below:
+
+![intro screen](images/dt-intro.png)
+
+#### Navigating Around
+You may wish to explore the contents of the **Digital Trainer** demo channel created with some sample topics to get a feel of the functionality of the platform.
+
+#### Exiting the Channel
+Once you have completed your session, you can say, **Goodbye** to exit the Digital Trainer channel and return to the general mode of Google Assistant.
