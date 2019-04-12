@@ -1,7 +1,7 @@
 [![hida](images/hida-128x128.png)](./)
 
 #### Overview of Technical Architecture
-
+![Architecture](images/technical.png)
 **Notes:**
 - User from mobile on Google Assistant invokes `Customer channel`.
 - Requests from user is first sent to the `Google Assistant` server and then forwarded to the `Channel Server`.
