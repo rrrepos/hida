@@ -2,7 +2,7 @@
 
 ### Terms used in hida
 #### Channel
-This holds all the organisations content that is available to a user by using an **invocation** in Google Assistant. For example, in the demo, **Talk to Digital Trainer** was the invocation that directed all requests from the user to the *Digital Trainer* content. For purposes of convenience, we call this customised content and its working as a **Channel**.
+An organisation's custom content needs to be made available to a user by using an **invocation** in Google Assistant. For example, in the demo, **Talk to Digital Trainer** was the invocation that directed all requests from the user to the *Digital Trainer* content. For purposes of convenience, we call this customised content and its working as a **Channel**.
 
 #### Topics
 For purposes of ease, the hida platform groups content into **Topics**. Topics help a user identify the content they are interested in. Examples of a topic can be: *HR Policy*, or even just *Leave Policy*, or *Product Details of ...* and so on. We recommend that a topic should not be very large for better performance. A topic scope, where all the contents of a topic can get answered in about **50 questions**, would be a suitable size.
@@ -38,3 +38,6 @@ The **Test** is an assessment functionality of the topic content. The platform w
 
 ### Technical Architecture
 For an understanding of how all the software components of the ecosystem works, check this [Technical document](./technical.html).
+
+### Next Steps to start a channel
+Write to: <a href="mailTo:connect2RmR@gmail.com">connect2RmR@gmail.com</a> to initiate steps to set up your own channel.
