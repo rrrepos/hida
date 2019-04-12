@@ -82,3 +82,15 @@ This is subject to:
 - for leaves that exceed 5 days at a stretch, they cannot be availed more than 3 times a year.
 - All leave must be availed via the HR system
 ```
+Notice how the answers spans across multiple lines including a blank line after “probate basis”. If you wish that to be the manner in which the content is to be displayed, that blank lines needs to be part of the text.
+
+---
+#### One word or a few word answers
+At times it is useful to provide answers that are to the point. Just the relevant word or words. This is especially useful when you mark that question as one on which the user may need to be tested. *Examine the following case*:
+
+##### How many days of Privilege Leave is credited each year
+```
+18
+```
+
+---
