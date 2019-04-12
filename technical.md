@@ -1,4 +1,4 @@
-[![hida](images/hida-128x128.png)](./)
+[![hida](images/hida-128x128.jpg)](./)
 
 #### Overview of Technical Architecture
 ![Architecture](images/technical-architecture.png)
