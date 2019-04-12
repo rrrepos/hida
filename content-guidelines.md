@@ -20,3 +20,27 @@ This is where the author chooses which of the modes that particular topic should
 
 ---
 #### Topic Format
+A topic content is a simple text stream. *An example is shown below*:
+```
+LEAVE TYPES
+Leaves can be of the following types:
+- Casual Leave (CL) of 8 days per year
+- Privilege Leave (PL) of 18 days per year
+- Maternity Leave (ML) of 26 weeks
+- Paternity Leave (PAL) of 7 days
+- Special Leave (SL) of 1 day
+
+
+CASUAL LEAVE
+An employee can avail of 8 days of Casual Leave per year. It can be availed for half a day too. Employees, who are on probation, are credited 4 days of Casual Leave on prorata basis until the employee completes probation.
+
+
+PRIVILEGE LEAVE
+An employee is credited with 18 days of Privilege Leave per year. This is credited after one year of completion. While in probation, 3 PL is credited on probate basis.
+
+This is subject to:
+- for leaves exceeding 3 days, the HOD's approval is required 15 days prior to the leave.
+- for leaves that exceed 5 days at a stretch, they cannot be availed more than 3 times a year.
+- All leave must be availed via the HR system.
+
+```
