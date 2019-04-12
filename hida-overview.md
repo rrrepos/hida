@@ -23,7 +23,7 @@ This is the feature where a user can ask any question related to the topic using
 For certain topics, especially of the training course variety, the author may wish to provide a methodical **explanation** of the topic. In hida terms, this constitutes an **ordered list** of questions that the user would be taken through in steps; more like running through a set of slides.
 
 #### Test
-The **Test** is an assessment functionality of the topic content. The platform will pick one or many assessment questions put by the author and ask the user in a random manner. Questions for test purposes may follow an **exact** logic or a **approximate** logic. The latter is used for longish answers where the user's response is compared with the provided answer and a score determined based on accuracy.
+The **Test** is an assessment functionality of the topic content. The platform will pick one or many assessment questions put by the author and ask the user in a random manner. Questions for test purposes may follow an **exact** logic or an **approximate** logic. The latter is used for longish answers where the user's response is compared with the provided answer and a score determined based on accuracy.
 
 
 ### How hida works
