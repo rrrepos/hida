@@ -100,4 +100,45 @@ As an author, you may wish to support your voice and text content by an image in
 SHAPE OF CELLS
 <img>https://storage.googleapis.com/digital-guru-public/cbse-8-sc-cell/cell_shapes.png</img>Cells are of different shapes. They are usually round, spherical or elongated. Their shape is dependent on their functions. Some are long and pointed at both ends. Some have branches. Some cells like the Amoeba or the White Blood Cells in humans change their shape. The cell membrane and cell wall give shape to a cell.
 ```
-Notice how the image url is placed between two `<img></img>` tags. The URL must be any publically available address because the Google Assistant retrieves the image from the URL and places it on the screen. It is important to note that if any answer has multiple img tags, only the **first image** within the answer’s range will be considered.
+Notice how the image url is placed between two `<img></img>` tags. The URL must be any publicly available address because the Google Assistant retrieves the image from the URL and places it on the screen. It is important to note that if any answer has multiple img tags, only the **first image** within the answer’s range will be considered.
+
+---
+#### Video in Content
+As an author, you may wish to support your voice and text content by a video in an answer. To do so, just insert an video tag as shown below:
+```
+WHAT IS CHARACTER STRENGTHS
+Character Strengths is our inner strengths that defines our character or personality. It make us, the person we are today. In simple words, as an individual, how we relate to other people and the world around us, is because of our character strengths. This is both, on a personal, and professional level. These are our core strengths with which we are born with, which get enhanced and becomes more  powerful on using them consciously and regularly.
+
+Check out the video on “some common Character strengths. <video>https://www.youtube.com/watch?v=K-3IjNr1gCg></video>
+```
+Notice how the video url is placed between two <video></video> tags. The URL must be any publicly available address. It is important to note that videos are **not part of the content** that is displayed by Google Assistant. A button is available for the user to tap to call the video which opens on a new screen.
+
+---
+#### Text and Speech in Content
+By default, the text of an answer is spoken using the set voice of the project. However, at times, one may wish that some of the text need not be spoken. *Take this example*.
+```
+HOLIDAYS
+The following are the holidays for this year:
+
+<silent>
+1 Jan (Tue): New Year's Day
+14 Jan (Mon): Makkar Sankranti/ Pongal
+26 Jan (Sat): Republic Day
+
+4 Mar (Mon): Maha Shivratri
+21 Mar (Thu): Holi
+. . . 
+. . .
+</silent>
+```
+In the above, the Digital Assistant will not read out the holiday dates and names but only the sentence “The following are holidays for the year” because the rest is between the <silent></silent> tags.
+
+---
+#### Bold and Italic in Content
+At times, you may wish to highlight some part of the text. Google Assistant supports the Markdown or WhatsApp style bold and italics. *Take this example*.
+```
+CELL DISCOVERY
+**Robert Hooke** in **1665** discovered the cell, while observing slices of cork, under a microscope. He noticed compartments like partitioned boxes, which was like a *honey-comb*. He noticed that each box was separated from the other by a wall. He called each box: a **cell**.
+```
+
+
