@@ -44,3 +44,22 @@ This is subject to:
 - All leave must be availed via the HR system.
 
 ```
+
+---
+#### Topic Questions
+The Author lists all the questions that the topic is scoped to answer. This includes: long answers as well as single or a few word answers. It helps to remember, that the AI system will pick the answer from the text based on what the author has marked. *Examples, of questions from the text may be*:
+
+##### What are the types of leaves
+```
+Leaves can be of the following types:
+- Casual Leave (CL) of 8 days per year
+- Privilege Leave (PL) of 18 days per year
+- Maternity Leave (ML) of 26 weeks
+- Paternity Leave (PAL) of 7 days
+- Special Leave (SL) of 1 day
+```
+
+##### What is Casual Leave
+```
+An employee can avail of 8 days of Casual Leave per year. It can be availed for half a day too. Employees, who are on probation, are credited 4 days of Casual Leave on prorata basis until the employee completes probation.
+```
