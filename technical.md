@@ -12,4 +12,4 @@
     * send rendered content to the `Channel Server`
  - `Channel Server` returns rendered content to the User Mobile 
 
-[>> back to hida overview](./hida-overview.html)
+[<< back to hida overview](./hida-overview.html)
