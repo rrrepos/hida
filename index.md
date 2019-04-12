@@ -14,4 +14,4 @@
 Say, **Talk to Digital Trainer** to your Google Assistant App to invoke the demo, or, [Check these Instructions](./demo.html).
 
 ### How to use hida
-Organisations can set up their **own channels** to serve their customers / teams with training content and other reference content. The **hida** platform makes it a *breeze* to do that. [Learn more about it](./hida-help.html)
+Organisations can set up their **own channels** to serve their customers / teams with training content and other reference content. The **hida** platform makes it a *breeze* to do that. [Learn more about it](./hida-overview.html)
