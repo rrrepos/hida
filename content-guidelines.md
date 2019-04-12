@@ -63,3 +63,22 @@ Leaves can be of the following types:
 ```
 An employee can avail of 8 days of Casual Leave per year. It can be availed for half a day too. Employees, who are on probation, are credited 4 days of Casual Leave on prorata basis until the employee completes probation.
 ```
+
+##### How much of Casual Leave does a person under probation get
+```
+Employees, who are on probation, are credited 4 days of Casual Leave on prorata basis until the employee completes probation.
+```
+
+---
+#### Multiple Paragraph Answers
+Simple Answers usually are a single single or at least a single para, where the author just selects the answer from the topic text. However, at times, the answer may span over multiple paragraphs. *Take the example below*.
+
+##### What is Privilege Leave
+```
+An employee is credited with 18 days of Privilege Leave per year. This is credited after one year of completion. While in probation, 3 PL is credited on probate basis.
+
+This is subject to:
+- for leaves exceeding 3 days, the HOD's approval is required 15 days prior to the leave.
+- for leaves that exceed 5 days at a stretch, they cannot be availed more than 3 times a year.
+- All leave must be availed via the HR system
+```
