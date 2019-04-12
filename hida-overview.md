@@ -40,4 +40,4 @@ The **Test** is an assessment functionality of the topic content. The platform w
 For an understanding of how all the software components of the ecosystem works, check this [Technical document](./technical.html).
 
 ### Next Steps to start a channel
-Write to: <a href="mailTo:connect2RmR@gmail.com">connect2RmR@gmail.com</a> to initiate steps to set up your own channel.
+Write to: <a href="mailto:connect2RmR@gmail.com">connect2RmR@gmail.com</a> to initiate steps to set up your own channel.
