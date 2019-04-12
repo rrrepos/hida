@@ -31,9 +31,9 @@ The **Test** is an assessment functionality of the topic content. The platform w
 2. Now user is in the channel. The initial response is a **Greeting** asking the user to choose a topic.
 3. User can say a **topic name** or say, **list topics**. From the list shown, the user may choose to tap on desired topic.
 4. Once user has selected a topic, based on the modes set by the author, the user can seek an explanation or ask questions or get tested on it. 
-5. Just follow the responses and the user should be able to navigate easily.
-6. To exit a topic, say, **exit topic** and return to the point where you can choose another topic or exit the channel.
-7. To exit the channel, say **goodbye**. This gets the user back to the normal Google Assistant mode where general queries may be asked.
+5. The user should be able to navigate easily by following the responses.
+6. To exit a topic, the user should say, **exit topic** and return to the point where the user can choose another topic or exit the channel.
+7. To exit the channel, the user should say **goodbye**. This gets the user back to the normal Google Assistant mode where general queries may be asked.
 
 
 ### Technical Architecture
