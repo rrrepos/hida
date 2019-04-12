@@ -94,3 +94,10 @@ At times it is useful to provide answers that are to the point. Just the relevan
 ```
 
 ---
+#### Images in Content
+As an author, you may wish to support your voice and text content by an image in an answer. To do so, just insert an img tag as shown below:
+```
+SHAPE OF CELLS
+<img>https://storage.googleapis.com/digital-guru-public/cbse-8-sc-cell/cell_shapes.png</img>Cells are of different shapes. They are usually round, spherical or elongated. Their shape is dependent on their functions. Some are long and pointed at both ends. Some have branches. Some cells like the Amoeba or the White Blood Cells in humans change their shape. The cell membrane and cell wall give shape to a cell.
+```
+Notice how the image url is placed between two `<img></img>` tags. The URL must be any publically available address because the Google Assistant retrieves the image from the URL and places it on the screen. It is important to note that if any answer has multiple img tags, only the **first image** within the answer’s range will be considered.
