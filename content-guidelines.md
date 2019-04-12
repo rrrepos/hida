@@ -111,6 +111,7 @@ Character Strengths is our inner strengths that defines our character or persona
 
 Check out the video on “some common Character strengths. <video>https://www.youtube.com/watch?v=K-3IjNr1gCg></video>
 ```
+
 Notice how the video url is placed between two <video></video> tags. The URL must be any publicly available address. It is important to note that videos are **not part of the content** that is displayed by Google Assistant. A button is available for the user to tap to call the video which opens on a new screen.
 
 ---
