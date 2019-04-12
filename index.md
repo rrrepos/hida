@@ -17,3 +17,6 @@ Digital Trainer is a channel created to demonstrate the capabilities of hida. Sa
 
 ### How to use hida
 Organisations can set up their **own channels** to serve their customers / teams with training content and other reference content. The **hida** platform makes it a *breeze* to do that. [Learn more about it](./hida-overview.html)
+
+### To start your own channel
+Write to: <a href="mailto:connect2RmR@gmail.com">connect2RmR@gmail.com</a>.
