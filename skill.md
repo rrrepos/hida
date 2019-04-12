@@ -1,6 +1,6 @@
 [![hida](images/hida-128x128.png)](./)
 
-### HR and Staff Policy
+### Skill Enhance Courses
 Distribute courses across your teams to be accessed **anytime** at their convenience on their mobile phones. Authors can, optionally, assess users via this platform. *No more missed trainings for busy personnel*.
 
 ![hr screen](images/skills.png)
