@@ -2,7 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-body {background: #fff url('') 0 0 repeat;}
+body {background-image: none; background-color:#fafafa}
+#container {background-image:none}
 h2 {text-align:center}
 h3 {color: #0A9395}
 h4 {color: #333}
