@@ -112,7 +112,7 @@ Character Strengths is our inner strengths that defines our character or persona
 Check out the video on “some common Character strengths. <video>https://www.youtube.com/watch?v=K-3IjNr1gCg></video>
 ```
 
-Notice how the video url is placed between two <video></video> tags. The URL must be any publicly available address. It is important to note that videos are **not part of the content** that is displayed by Google Assistant. A button is available for the user to tap to call the video which opens on a new screen.
+Notice how the video url is placed between two `<video></video>` tags. The URL must be any publicly available address. It is important to note that videos are **not part of the content** that is displayed by Google Assistant. A button is available for the user to tap to call the video which opens on a new screen.
 
 ---
 #### Text and Speech in Content
@@ -131,8 +131,9 @@ The following are the holidays for this year:
 . . . 
 . . .
 </silent>
+<hidden>Of these an employee can opt for only 12 days.</hidden>
 ```
-In the above, the Digital Assistant will not read out the holiday dates and names but only the sentence “The following are holidays for the year” because the rest is between the <silent></silent> tags.
+In the above, the Digital Assistant will not read out the holiday dates and names but only the sentence “The following are holidays for the year” because the rest is between the `<silent></silent>` tags. Similarly, what is between the `<hidden></hidden>` tags will only be spoken and not seen.
 
 ---
 #### Bold and Italic in Content
